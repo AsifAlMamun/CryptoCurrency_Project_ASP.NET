@@ -1,0 +1,23 @@
+# Ignore obj and bin folders
+obj/
+bin/
+
+# Ignore user-specific files
+*.user
+
+# Ignore Visual Studio files
+*.suo
+*.cache
+*.csproj.user
+.vscode/
+
+# Ignore logs and databases
+*.log
+*.sqlite
+
+# Ignore packages and dependencies
+packages/
+
+# Ignore compiled output
+Debug/
+Release/
